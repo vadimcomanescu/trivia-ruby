@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 $:.unshift(File.dirname(__FILE__) + '/../lib')
 
-require 'ugly_trivia/game'
+require 'game'
 
 not_a_winner = false
 
